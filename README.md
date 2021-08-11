@@ -90,10 +90,6 @@ python find_similar_pairs.py -s Knot_Tying
 python prepare_annotations.py
 ```
 
-# Train the models with 4-cross-validation
-
-> You can train the model with the instructions below or alternatively download the models from [link](https://drive.google.com/drive/folders/1QJloftDDlidD9aCNs-jaW_yIwUBGIyG7?usp=sharing)
-
 ## Get pretrained weights
 
 ```sh
